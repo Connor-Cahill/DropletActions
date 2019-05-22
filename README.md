@@ -168,3 +168,26 @@ The ``downCompose`` command will run ``docker-compose down`` on user specified d
 **Example Use:**
 
         $ dropletactions downCompose 192.0.1.2 myProject/compose
+
+
+## Feature Roadmap
+Here is a short list of future feature we plan on implementing into DropletActions CLI.
+
+- **2 Factor Authentication with Authy**
+    <br>
+This is the most important feature on this list as it will provide more security for users. This will provide a secure way to manage Droplets from your terminal. 
+
+<br>
+
+- **More Setup Commands** 
+    <br>
+Currently only supports setting up Droplets with docker and docker-compose. We intend on adding way more options for setting up Droplets such as dokku and other software.
+
+<br>
+
+- **Better Text Formatting & UX**
+    <br>
+The UX is a little choppy with how arguments are passed and text is outputted. We are working make it a better experience visually and usability wise for the user.
+
+### Really Interested In DropletActions CLI?
+If you are really interested in the DropletActions CLI and want to contribute reach out to me via Github!
