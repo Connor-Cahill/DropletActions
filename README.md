@@ -50,3 +50,19 @@ Although I would like to make these all inputs in the future it currently builds
 
         $ dropletactions create my-new-droplet
 
+### List
+The list command lists out all of your Droplets:
+- name
+- ID
+- Public IP
+<br>
+*note: pagnation is not setup yet and the list command will return at most 20 Droplets*
+<br>
+This command is useful for when you need to pass a Droplets Public IP or ID through another command as an argument.
+**The list command does not take any arguments.**
+<br>
+**Example Use:**
+
+        $ dropletactions list
+
+
