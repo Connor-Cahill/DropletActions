@@ -18,6 +18,7 @@ This can take an annoying process that requires using the Digital Ocean GUI and 
 
 ## Installation/Setup
 
+...
 
 ## Usage
 Once the CLI is installed and setup you should be able to use it in your terminal freely.
