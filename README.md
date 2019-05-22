@@ -1,6 +1,8 @@
 # Droplet Actions CLI
 Helping you take the headache out of deploying projects to Digital Ocean Droplets.
 > You did the thing once, why do it again?
+
+[**Click here to visit project repo**](https://github.com/Connor-Cahill/DropletActionsCLI)
 ## Overview
 Droplet Actions is a CLI built to simplify the process of shipping web apps to/managing Digital Ocean Droplets. 
 This CLI removes the need for you to:
